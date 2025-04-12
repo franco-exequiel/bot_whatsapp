@@ -2,6 +2,9 @@
 import os
 from dotenv import load_dotenv
 
+#1.- SE DEBERA CREAR EL ARCHIVO .ENV
+#2.- DICHO ARCHIVO DEBERÁ CONTENER LAS VARIABLES DE ENTORNO REQUERIDAS EN ESTE MÓDULO
+
 #Cargar variables de entonro
 load_dotenv()
 
